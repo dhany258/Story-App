@@ -24,7 +24,7 @@ Introduction to my Android application, Story App, which features seamless login
 **Clone the repository**:
 
    ```bash
-   git clone https://github.com/username/story-app.git
+   git clone https://github.com/dhany258/Story-App.git
    ```
 ## Open the Project
 
@@ -45,7 +45,7 @@ Build and run the project on an Android device or emulator.
 
 You can also download the APK directly from the following link and install it on your Android device:
 
-[Download Github APK](https://drive.google.com/file/d/1CzTBZq2nv0FSKMbt6M1SlzUg3cmU4qcx/view?usp=drive_link)
+[Download Story App](https://drive.google.com/file/d/1kaZb2zp57RV_mMY8PPND804_Oj87vbvM/view?usp=drive_link)
 
 ## Technologies Used
 
