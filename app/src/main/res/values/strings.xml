@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="title_login">Selamat Datang di Story App</string>
+    <string name="login_des">Masuk ke akun Anda untuk melanjutkan petualangan cerita Anda</string>
+    <string name="email">Email</string>
+    <string name="inputEmail">Masukan Email</string>
+    <string name="password">Password</string>
+    <string name="inputPassword">Masukan Password</string>
+    <string name="signIn">Sign In</string>
+    <string name="title_register">Daftar Akun Baru</string>
+    <string name="register_des">Daftar sekarang untuk berbagi pengalaman di App Story</string>
+    <string name="name">Nama</string>
+    <string name="inputName">Masukan Nama</string>
+    <string name="signUp">Sign Up</string>
+    <string name="or">-OR-</string>
+    <string name="description">Description</string>
+    <string name="image_detail">Image Detail</string>
+    <string name="logout">Logout</string>
+    <string name="upload">Upload</string>
+    <string name="camera">Camera</string>
+    <string name="galery">Galery</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">maps</string>
+    <string name="retry">coba lagi</string>
+    <string name="error_password_short">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="error_invalid_email">Masukan email dengan benar</string>
+</resources>
